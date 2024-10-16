@@ -79,7 +79,7 @@ Below is a diagram showing the relationships between the tables in the SQL Workb
 ## Usage
 To replicate this analysis, clone the repository and follow the SQL scripts provided:
 
-git clone [Click Here](https://github.com/yourusername/yourrepositoryname.git)
+git clone [Click Here](https://github.com/HarshaVardhan1505/maven-fuzzy-factory.git)
 
 
 ## Conclusion
